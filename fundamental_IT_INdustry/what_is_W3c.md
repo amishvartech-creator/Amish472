@@ -11,7 +11,8 @@ The World Wide Web Consortium (W3C) is the primary international, non-profit org
 Markup Validation Service: A free service provided by W3C to check the validity of web documents, such as HTML or XHTML, helping to improve website quality and performance.
 
 3. W3C WebDriver Protocol: A standard that enables consistent, automated testing of web applications across different browsers.
-Open Standards Promotion: The W3C ensures that the web is a "Web for All" and "Web on Everything," working across various devices and platforms
+
+4. Open Standards Promotion: The W3C ensures that the web is a "Web for All" and "Web on Everything," working across various devices and platforms
 
 
 ![alt text](image.png)
